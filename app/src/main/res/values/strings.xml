@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Text marquee demo</string>
+    <array name="strings_array">
+        <item>First string very long and have mach text. test it as mach as we can</item>
+        <item>Second string very short</item>
+        <item>Third string on device width I suppouse</item>
+        <item>Fourth string on test my string, test my string, test my string, test my string, test
+            my string,
+        </item>
+        <item>Fifth string on.</item>
+
+    </array>
+</resources>
